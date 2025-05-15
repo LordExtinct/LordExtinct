@@ -64,10 +64,6 @@
   </tr>
   <tr>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="Express" />
-      <br>Express.js
-    </td>
-    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
       <br>Nest
     </td>
@@ -84,10 +80,6 @@
       <br>Next.js
     </td>
   </tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=firebase" width="43" height="43" alt="Firebase" />
-      <br>Firebase
-    </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
       <br>PostgreSQL
