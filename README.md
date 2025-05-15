@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e0/ca/d6/e0cad63c396a50812012a84d558503e6.gif" alt="Gif">
+  <img src="https://images.steamusercontent.com/ugc/50207798128466812/50476B88199E104327703DB09B8F6DD68467474A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Gif">
 </p>
 
 
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="Visitors" />
 </p>
 
 
