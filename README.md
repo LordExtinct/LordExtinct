@@ -29,6 +29,63 @@
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="45" height="55" />
       <br>Sass
     </td>
+      <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="45" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="43" height="43" alt="Nest" />
+      <br>Nest
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="43" height="43" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="45" height="55" />
+      <br>RESTful API
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="55" />
+      <br>Redis
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="43" height="43" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="55" />
+      <br>GitHub
+    </td>
+  </tr>
   </tr>
 
   ###  Frontend  
