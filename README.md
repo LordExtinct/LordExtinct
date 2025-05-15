@@ -22,10 +22,7 @@
 </p>
 
 
-## Skills <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="Visitors" />
-</p>
-
+## Skills 
   ###  Frontend  
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
@@ -61,6 +58,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/LordExtinct/LordExtinct/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="Visitors" />
+</p>
+
 </p>
 
 
