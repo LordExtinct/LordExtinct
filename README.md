@@ -92,8 +92,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white" alt="MobX" />
 </p>
-**Backend (maybe 😋)**
 
+##   Backend
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" />
