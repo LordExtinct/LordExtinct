@@ -68,11 +68,11 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="43" height="43" alt="Next.js" />
       <br>Next.js
     </td>
-  </tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=postgres" width="43" height="43" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+  </tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="55" />
       <br>Redis
