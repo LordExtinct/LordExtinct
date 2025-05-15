@@ -1,6 +1,6 @@
 Хай, мой никнейм - экстинкт. Я фронетнд разработчик из России с небольшим опытом. Я буду очень рад присоединиться к команде и побыть на фрилансе с хорошим опытом. Связь телеграм - @LordExtinct
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3e/d5/f4/3ed5f49cffaeb7ec79199ff8bb80e312.gif" alt="Gif">
+  <img src="https://i.pinimg.com/originals/e0/ca/d6/e0cad63c396a50812012a84d558503e6.gif" alt="Gif">
 </p>
 
 
@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white" alt="MobX" />
 </p>
 
-##   Backend
+**Backend**
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" />
