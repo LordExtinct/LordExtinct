@@ -1,4 +1,18 @@
-Хай, мой никнейм - экстинкт. Я фронетнд разработчик из России. Буду рад присоединиться к любой команде энтузиастов.
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true" align=right />
+</picture>
+
+I'm a **fullstack developer** with a passion for creating efficient and scalable web applications. With over two years of experience in **Next.js** and a solid year in **Nest.js**, I've developed a wide range of skills in both frontend and backend development.
+
+I am currently focused on building my **anime streaming service**, aiming to create a seamless and enjoyable experience for anime community.
 <p align="center">
   <img src="https://i.pinimg.com/originals/e0/ca/d6/e0cad63c396a50812012a84d558503e6.gif" alt="Gif">
 </p>
