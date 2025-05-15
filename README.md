@@ -49,8 +49,8 @@
 
 </table>
 </p>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="Visitors" />
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="visitors" />
 </p>
 ###
 
