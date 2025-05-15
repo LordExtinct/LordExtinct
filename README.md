@@ -22,7 +22,9 @@
 </p>
 
 
-## Skills
+## Skills <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="Visitors" />
+</p>
 
   ###  Frontend  
 <p align="left">
@@ -61,8 +63,5 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="Visitors" />
-</p>
 
 
