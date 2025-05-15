@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=1111&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" alt="profile views" />
 </p>
 
 
