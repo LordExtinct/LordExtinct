@@ -10,9 +10,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true" align=right />
 </picture>
 
-I'm a **fullstack developer** with a passion for creating efficient and scalable web applications. With over two years of experience in **Next.js** and a solid year in **Nest.js**, I've developed a wide range of skills in both frontend and backend development.
+Хай, я приблизительно **фулл-стек разработчик** увлекающийся разработкой масштабиремых веб приложений. Мой примерный экспириенс более полугода в **React** и *Nest* разработке. На данный момент. 
 
-I am currently focused on building my **anime streaming service**, aiming to create a seamless and enjoyable experience for anime community.
+В настоящее время я сосредоточен на создании своего сервиса потоковой передачи аниме-контента, стремясь создать лучшую платформу в снг и создать приятный опыт для аниме сообщества. 
+
+---
+
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/e0/ca/d6/e0cad63c396a50812012a84d558503e6.gif" alt="Gif">
 </p>
