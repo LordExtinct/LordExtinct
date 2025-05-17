@@ -35,7 +35,6 @@
 **Backend**
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Fastify" src="https://img.shields.io/badge/-fastify-000000?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
