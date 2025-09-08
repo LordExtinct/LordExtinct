@@ -17,11 +17,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://images.steamusercontent.com/ugc/50207798128466812/50476B88199E104327703DB09B8F6DD68467474A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Gif">
-</p>
-
-
 ## Skills 
   ###  Frontend  
 <p align="left">
