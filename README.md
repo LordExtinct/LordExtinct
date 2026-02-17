@@ -12,7 +12,7 @@ Full-Stack Developer focused on scalable web applications
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=LordExtinct&theme=dark"
@@ -24,7 +24,7 @@ Full-Stack Developer focused on scalable web applications
     />
     <img src="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true" />
   </picture>
-</p>
+</p> -->
 
 ---
 
