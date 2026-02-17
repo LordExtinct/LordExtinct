@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Extinct</h1>
 
 <h3 align="center">
-Full-Stack Developer focused on scalable web applications
+Full-Stack Developer focused on web applications
 </h3>
 
 ---
@@ -10,23 +10,6 @@ Full-Stack Developer focused on scalable web applications
   <img src="https://i.pinimg.com/1200x/5c/59/91/5c599179634dd616130431a9b6eb1254.jpg" width="600" />
 </p>
 
----
-
-<!-- <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LordExtinct&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=LordExtinct&show_icons=true" />
-  </picture>
-</p> -->
-
----
 
 ## 🚀 About Me
 
