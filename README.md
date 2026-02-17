@@ -4,12 +4,9 @@
 Full-Stack Developer focused on web applications
 </h3>
 
----
-
 <p align="center">
   <img src="https://i.pinimg.com/1200x/5c/59/91/5c599179634dd616130431a9b6eb1254.jpg" width="600" />
 </p>
-
 
 ## 🚀 About Me
 
