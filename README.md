@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Extinct</h1>
+<h1 align="center">Hi, I'm Extinct</h1> 
 
 <h3 align="center">
 Full-Stack Developer focused on web applications
@@ -49,20 +49,8 @@ Full-Stack Developer focused on web applications
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
----
-
-<p align="center">
+<p align="">
   <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" />
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordExtinct/LordExtinct/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordExtinct/LordExtinct/refs/heads/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/LordExtinct/LordExtinct/refs/heads/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 
