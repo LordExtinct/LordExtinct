@@ -19,9 +19,9 @@ Full-Stack Developer focused on web applications
 
 ## 🛠 Tech Stack
 
-### 🎨 Frontend
+### 🎨 Frontend (MAIN)
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
@@ -33,7 +33,7 @@ Full-Stack Developer focused on web applications
 
 ### ⚙️ Backend
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/NestJS-ea2845?logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white" />
@@ -43,7 +43,7 @@ Full-Stack Developer focused on web applications
 
 ### 🚀 DevOps & Tools
 
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
