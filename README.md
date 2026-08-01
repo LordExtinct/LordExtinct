@@ -9,7 +9,7 @@ Full-Stack Developer focused on web applications
 About Me
 
 - 💻 Full-Stack Developer with frontend focus  
-- ⚛️ 1,5 years experience in **React** & **Elysia** development  
+- ⚛️ 1,5 years experience in **React** & **Elysia & NestJs** development  
 - 🧠 Passionate about building scalable, clean architecture  
 - 📈 Constantly improving system design & backend skills  
 
