@@ -33,7 +33,8 @@ About Me
 
 <p align="">
   <img src="https://skillicons.dev/icons?i=elysia&perline=3" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /> -->
+ элизия короче 
 </p>
 
 ---
