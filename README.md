@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Extinct</h1> 
+<h1 align="center">I'm Extinct</h1> 
 
 <h3 align="center">
 Full-Stack Developer focused on web applications
