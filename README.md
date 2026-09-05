@@ -23,10 +23,10 @@ Full-Stack Developer focused on web applications
 
 ---
 
-### 🚀 DevOps & Tools
+### DevOps & Tools
 
 <p align="">
-  docker, git, ci/cd
+  docker, git, ci/cd, postgresql
 </p>
 
 
