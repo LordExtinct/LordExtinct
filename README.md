@@ -8,32 +8,18 @@ Full-Stack Developer focused on web applications
 <div align="center"><img src="https://i.pinimg.com/736x/28/f2/5f/28f25fd2137f693f8f3cb966b3c1b162.jpg" style="border-radius: 10px;"/></div>
 About Me
 
-- 💻 Full-Stack Developer with frontend focus  
-- ⚛️ 1,5 years experience in **React** & **Elysia & NestJs** development  
-- 🧠 Passionate about building scalable, clean architecture  
-- 📈 Constantly improving system design & backend skills  
-
----
-
-## 🛠 Tech Stack
-
-### 🎨 Frontend (MAIN)
+### Frontend
 
 <p align="">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white" />
+  ReactJs, NextJs, Tanstack-query, Mobx, Typescript, 
 </p>
 
 ---
 
-### ⚙️ Backend
+### Backend
 
 <p align="">
-  <img src="https://skillicons.dev/icons?i=elysia&perline=3" />
-  <!-- <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /> -->
+  ElysiaJs, prismaOrm
 </p>
 
 ---
@@ -41,14 +27,9 @@ About Me
 ### 🚀 DevOps & Tools
 
 <p align="">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  docker, git, ci/cd
 </p>
 
-<p align="">
-  <img src="https://komarev.com/ghpvc/?username=LordExtinct&label=Profile+views&color=e5122a&style=flat" />
-</p>
 
 
 
