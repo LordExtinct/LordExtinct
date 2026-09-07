@@ -1,6 +1,6 @@
 <h1>I'm Extinct.</h1> 
 
-<h3 align="center">
+<h3>
 Full-Stack Developer focused on web applications
 </h3>
  
